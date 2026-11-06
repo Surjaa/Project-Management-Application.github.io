@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="740" height="160" viewBox="0 0 740 160" role="img" aria-label="Project Management Application logo">
+  <g transform="translate(0,30) scale(3.125)">
+    <rect width="32" height="32" rx="9" fill="#141830"/>
+    <rect x="7" y="8" width="5" height="16" rx="1.5" fill="#3355ff"/>
+    <rect x="13.5" y="8" width="5" height="11" rx="1.5" fill="#ff7a45"/>
+    <rect x="20" y="8" width="5" height="7" rx="1.5" fill="#1fa37a"/>
+  </g>
+  <text x="124" y="84" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="56" fill="#171b34">Project Management</text>
+  <text x="124" y="130" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="40" fill="#3355ff">Application</text>
+</svg>
